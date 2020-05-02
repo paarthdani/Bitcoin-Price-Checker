@@ -1,2 +1,3 @@
 # Bitcoin-Price-Checker
-This script will let you check bitcoin price in 10+ currencies and also would convert the value-currency for you
+This Python Script will let you check Bitcoin Price in 20+ currencies.
+Also it can convert x amount of particular currency to Bitcoin.
